@@ -4,15 +4,45 @@
   "tracks": [
 
     {
-      "title": "Canon in D",
-      "description": "Processional Music",
-      "file": "audio/wedding/canon-in-d.mp3"
+      "title": "Wedding March (In)",
+      "description": "Traditional Wedding Processional Music",
+      "file": "audio/wedding/Wedding-March-In.mp3"
     },
 
     {
-      "title": "Jesu, Joy of Man's Desiring",
-      "description": "Signing of Register",
-      "file": "audio/wedding/jesu-joy.mp3"
+      "title": "Wedding March (Out)",
+      "description": "Traditional Wedding Recessional Music",
+      "file": "audio/wedding/Wedding-March-Out.mp3"
+    },
+	
+    {
+      "title": "Trumpet Voluntary - Clarke",
+      "description": "Popular Trumpet Voluntary for Weddings",
+      "file": "audio/wedding/Trumpet-Voluntary_Clarke.mp3"
+    },
+	
+    {
+      "title": "Trumpet Prelude from Te Deum - Charpentier",
+      "description": "Popular Trumpet Voluntary",
+      "file": "audio/wedding/Trumpet-Prelude-from-Te-Deum_Charpentier-1.mp3"
+    },
+	
+    {
+      "title": "Hornpipe from Water Music - Handle",
+      "description": "Well known movement from Handle's Water Music",
+      "file": "audio/wedding/Hornpipe-from-Water-Music_Handle.mp3"
+    },
+	
+    {
+      "title": "Morantanz - Susato",
+      "description": "Grand Renaissance Dance",
+      "file": "audio/wedding/Morantanz_Susato.mp3"
+    },
+	
+    {
+      "title": "Toccatta from Symphony No V - Widor",
+      "description": "Very Popular and Grand Recetional",
+      "file": "audio/wedding/Toccatta-from-Symphony-No-V_Widor.mp3"
     }
 
   ]
