@@ -1,0 +1,19 @@
+{
+  "title": "Choir Practice",
+
+  "tracks": [
+
+    {
+      "title": "Ave Verum Corpus",
+      "description": "Current rehearsal recording",
+      "file": "audio/choir/ave-verum.mp3"
+    },
+
+    {
+      "title": "Panis Angelicus",
+      "description": "Current rehearsal recording",
+      "file": "audio/choir/panis-angelicus.mp3"
+    }
+
+  ]
+}

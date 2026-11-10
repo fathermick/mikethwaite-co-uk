@@ -1,0 +1,19 @@
+{
+  "title": "Wedding Music",
+
+  "tracks": [
+
+    {
+      "title": "Canon in D",
+      "description": "Processional Music",
+      "file": "audio/wedding/canon-in-d.mp3"
+    },
+
+    {
+      "title": "Jesu, Joy of Man's Desiring",
+      "description": "Signing of Register",
+      "file": "audio/wedding/jesu-joy.mp3"
+    }
+
+  ]
+}

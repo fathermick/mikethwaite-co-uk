@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Mike Thwaite Music</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header class="hero">
+
+    <div class="hero-content">
+
+        <div class="site-name">
+            MIKE THWAITE
+        </div>
+
+        <h1>
+            Wedding Music<br>
+            & Choir Resources
+        </h1>
+
+        <p class="hero-text">
+            Organist, accompanist and choir trainer.
+            Listen online or download rehearsal recordings.
+        </p>
+
+        <div id="categoryButtons"></div>
+
+    </div>
+
+</header>
+
+<section class="pipes-section">
+
+    <div class="pipes-content">
+
+        <h2>
+            Music for Worship and Celebration
+        </h2>
+
+        <p>
+            Wedding music, choir practice recordings and
+            additional musical resources.
+        </p>
+
+    </div>
+
+</section>
+
+<footer>
+
+    © Mike Thwaite Music
+
+</footer>
+
+<script>
+
+fetch('data/categories.json')
+.then(response => response.json())
+.then(categories => {
+
+    const container =
+        document.getElementById("categoryButtons");
+
+    categories.forEach(cat => {
+
+        container.innerHTML += `
+            <a class="hero-button"
+               href="category.html?cat=${cat.id}">
+                ${cat.name}
+            </a>
+        `;
+
+    });
+
+});
+
+</script>
+
+</body>
+</html>
