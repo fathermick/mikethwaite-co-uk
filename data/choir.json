@@ -4,13 +4,24 @@
   "tracks": [
 
     {
-      "title": "Ave Verum Corpus",
-      "description": "Current rehearsal recording",
-      "file": "audio/choir/ave-verum.mp3"
+      "title": "Bell Carol Soprano",
+      "description": "Bell Carol Soprano Track",
+      "file": "audio/choir/bellcarol-s.mp3"
     },
-
+	
     {
-      "title": "Panis Angelicus",
+      "title": "Bell Carol Alto",
+      "description": "Bell Carol Alto Track",
+      "file": "audio/choir/bellcarol-a.mp3"
+    },
+	    {
+      "title": "Bell Carol Bass",
+      "description": "Bell Carol Bass Track",
+      "file": "audio/choir/bellcarol-b.mp3"
+    },
+	
+    {
+      "title": "lasttrack",
       "description": "Current rehearsal recording",
       "file": "audio/choir/panis-angelicus.mp3"
     }
