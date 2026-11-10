@@ -8,7 +8,6 @@
       "description": "Bell Carol Soprano Track",
       "file": "audio/choir/bellcarol-s.mp3"
     },
-	
     {
       "title": "Bell Carol Alto",
       "description": "Bell Carol Alto Track",
@@ -21,9 +20,45 @@
     },
 	
     {
-      "title": "lasttrack",
-      "description": "Current rehearsal recording",
-      "file": "audio/choir/panis-angelicus.mp3"
+      "title": "In the Bleak Midwinter Soprano",
+      "description": "In the Bleak Midwinter Soprano Track",
+      "file": "audio/choir/in-the-bleak-midwinter-harold-darke_Sop.mp3"
+    },
+    {
+      "title": "In the Bleak Midwinter Alto",
+      "description": "In the Bleak Midwinter Alto Track",
+      "file": "audio/choir/in-the-bleak-midwinter-harold-darke_Alto.mp3"
+    },
+	    {
+      "title": "In the Bleak Midwinter Tenor",
+      "description": "In the Bleak Midwinter Tenor Track",
+      "file": "audio/choir/in-the-bleak-midwinter-harold-darke_tenor.mp3"
+    },
+    {
+      "title": "In the Bleak Midwinter Bass",
+      "description": "In the Bleak Midwinter Bass Track",
+      "file": "audio/choir/in-the-bleak-midwinter-harold-darke_Bass.mp3"
+    },
+	
+    {
+      "title": "Nativity Carol Soprano",
+      "description": "Nativity Carol Soprano Track",
+      "file": "audio/choir/nativity-carol recording_Sop.mp3"
+    },
+	    {
+      "title": "Nativity Carol Alto",
+      "description": "Nativity Carol Alto Track",
+      "file": "audio/choir/nativity-carol recording_Alto.mp3"
+    },
+    {
+      "title": "Nativity Carol Tenor",
+      "description": "Nativity Carol Tenor Track",
+      "file": "audio/choir/nativity-carol recording_Tenor.mp3"
+    },
+    {
+      "title": "Nativity Carol Bass",
+      "description": "Nativity Carol Bass Track",
+      "file": "audio/choir/nativity-carol recording_Bass.mp3"
     }
 
   ]
